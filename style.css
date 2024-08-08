@@ -411,6 +411,7 @@ nav {
 
 .client__content {
   overflow: hidden;
+  cursor: pointer;
 }
 
 .swiper {
